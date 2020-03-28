@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">BuddyStudy</string>
+    <string name="edit_study_sets">Edit Study Sets</string>
+    <string name="start_study_button">Study!!</string>
+    <string name="test_text">Hello Jason!</string>
+    <string name="settings_menu_button">Settings</string>
+    <string name="test_edit_text_frag">Edit Study Sets Frag</string>
+    <string name="test_study_frag">Start Study Frag</string>
+    <string name="home_button_bottom_menu">Home</string>
+    <string name="my_classes">My Classes</string>
+    <string name="my_study_sets">My Study Sets</string>
+    <string name="new_class">New Class</string>
+</resources>

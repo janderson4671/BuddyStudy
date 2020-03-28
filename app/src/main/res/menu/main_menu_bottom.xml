@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/home_button_bottom_menu"
+        android:icon="@android:drawable/btn_star"
+        android:title="@string/home_button_bottom_menu" />
+    <item
+        android:id="@+id/start_study_menu_button"
+        android:icon="@android:drawable/ic_menu_send"
+        android:title="@string/start_study_button" />
+    <item
+        android:id="@+id/edit_sets_menu_button"
+        android:icon="@android:drawable/ic_menu_edit"
+        android:title="@string/edit_study_sets" />
+    <item
+        android:id="@+id/settings_menu_button"
+        android:icon="@android:drawable/ic_menu_manage"
+        android:title="@string/settings_menu_button" />
+</menu>
